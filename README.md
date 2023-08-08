@@ -1,29 +1,34 @@
-# notifications-page
-# Build and Deploy notifications page.
-#This project will be a brilliant test of your HTML, CSS, and basic JavaScript skills. You'll use JS to toggle the visual state of the notifications.
+# Notifications-Page-Main
 
-## Welcome! 
-Thanks for checking out this Application.
+
+
+## Welcome! 👋
+Thanks for checking out this front-end coding challenge.
 
 ## Overview
 
+
 ### Links
 
-- Live Site URL: [Live Site]()
+- Solution URL: [Github](https://github.com/AhmadDayoub/notifications-page-main)
+- Live Site URL: [Live Site](https://notifications-page-main-beta.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- React Js
-- Css
-- JavaScript
-- JSX
+-  React JS
+-  CSS
+-  JSX
 
 
 ## Author
 
-- Linkedin - [@jaafar-youssef-923100249](https://www.linkedin.com/in/jaafar-youssef-923100249/)
+- Linkedin - (https://www.linkedin.com/in/ahmad-dayoub-)
 
-By me
-  Jaafar Youssef
+
+By me 🚀🚀🚀
+Ahmad Dayoub
+
+
+
