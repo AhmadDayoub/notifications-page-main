@@ -9,7 +9,7 @@ Thanks for checking out this Application.
 
 ### Links
 
-- Live Site URL: [Live Site](https://notificatoin-app.netlify.app/)
+- Live Site URL: [Live Site]()
 
 ## My process
 
